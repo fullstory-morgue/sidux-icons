@@ -1,5 +1,10 @@
-sidux-icons (0.0.1) UNRELEASED; urgency=low
+sidux-icons (0.0.1) ORPHANED; urgency=low
 
-  * Initial release. (Closes: #XXXXXX)
+  [ Joaquim Boura ]
+  * Initial release.
 
- -- Joaquim Boura <x-un-i@sidux.com>  Sun, 29 Apr 2007 13:19:50 +0200
+  [ Stefan Lippers-Hollmann ]
+  * ORPHAN PACKAGE.
+  * all icons have been merged to their individual packages.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 30 Apr 2007 02:13:31 +0200
